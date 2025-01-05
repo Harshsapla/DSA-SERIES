@@ -41,4 +41,4 @@ solution = Solution()
 nums = [2, 2, 11]
 result = solution.removeDuplicate(nums)
 print(result)       # Prints the number of unique elements
-print(nums[:result])  # Prints the array with unique elements
+print(nums[:result])  # Prints the array with unique elementsS
